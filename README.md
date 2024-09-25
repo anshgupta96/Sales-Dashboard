@@ -8,7 +8,7 @@ This repository contains a Power BI project showcasing a comprehensive Sales Das
 
 **Region-wise Analysis**: Dynamic visualization of sales and profit performance across various regions, displaying trends with sales growth percentages and profitability.
 
-Customer Segment Overview: A clear view of sales distribution across Corporate, Home Office, Consumer, and Small Business segments.
+**Customer Segment Overview**: A clear view of sales distribution across Corporate, Home Office, Consumer, and Small Business segments.
 
 **KPIs and Metrics**:
 
